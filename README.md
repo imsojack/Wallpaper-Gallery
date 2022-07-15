@@ -1,2 +1,3 @@
 # Wallpaper-Gallery
-imsojack.github.io/wallpaper-gallery/ 
+[View here](imsojack.github.io/wallpaper-gallery/)
+
